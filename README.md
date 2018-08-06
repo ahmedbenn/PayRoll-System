@@ -1,4 +1,4 @@
-# (Java)PayRoll-System (Apr 2016)
+# (Java) PayRoll-System (Apr 2016)
 This system is based on record management of a payroll of employees and people working in a company. There are many features in this program that are needed to calculate and evaluate various tasks.
 1. Record managing: Contains a register where accounts can be placed
 2. Calculate Gross Pay using (Basic_Pay + (Hours_Worked * Over_Time));
